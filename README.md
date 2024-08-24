@@ -20,7 +20,7 @@ const danieh = {
         "C#",
         "Python"
     ],
-    frameworks: ["VueJS", "React", ".NET"],
+    frameworks: ["VueJS", "Spring", "React", ".NET"],
     tools: ["Node", "Git", "Postman", "Docker"],
     databases: ["SQL", "MySQL", "MariaDB", "OracleSQL", "PostgreSQL"],
     css: ["SASS", "Bulma", "Bootstrap"],
